@@ -1,0 +1,33 @@
+{
+  "workbench.colorTheme": "Material Theme Ocean High Contrast",
+  "sqltools.connections": [
+    {
+      "mysqlOptions": {
+        "authProtocol": "default",
+        "enableSsl": "Disabled"
+      },
+      "previewLimit": 50,
+      "server": "localhost",
+      "port": 3306,
+      "driver": "MariaDB",
+      "name": "Connection2 - taskdb",
+      "database": "taskdb",
+      "username": "vexedmoth",
+      "password": "123"
+    },
+    {
+      "mysqlOptions": {
+        "authProtocol": "default",
+        "enableSsl": "Disabled"
+      },
+      "previewLimit": 50,
+      "server": "localhost",
+      "port": 3306,
+      "driver": "MariaDB",
+      "name": "Connection1 - practice",
+      "username": "vexedmoth",
+      "database": "practice",
+      "password": "123"
+    }
+  ]
+}
